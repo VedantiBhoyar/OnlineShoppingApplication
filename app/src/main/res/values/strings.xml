@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">BookCart</string>
+    <string name="reg">Here\'s your first step with us!</string>
+    <string name="Open">Open navigation</string>
+    <string name="Close">Close navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hp_first">It is a story about Harry Potter,
+        an orphan brought up by his aunt and uncle because his parents were killed when he was a baby.
+        Harry is unloved by his uncle and aunt but everything changes when he is invited to join Hogwarts School of
+        Witchcraft and Wizardry and he finds out he is  a wizard.</string>
+
+    <string name="hp_second">The plot follows Harry second year at Hogwarts School of Witchcraft and Wizardry,
+        during which a series of messages on the walls of the school corridors warn that the
+        "Chamber of Secrets" has been opened and that the "heir of Slytherin" would kill all pupils who do not come
+        from all-magical families.
+</string>
+
+    <string name="hp_third">The book follows Harry Potter,
+        a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry.
+        Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black,
+        an escaped prisoner from Azkaban, the wizard prison, believed to be one of Lord Voldemort old allies.
+</string>
+    <string name="hp_four">Synopsis. Harry, Ron and Hermione enter their fourth year at Hogwarts.
+        After having a strange dream of the Dark Lord and his Death Eaters,
+        Harry Potter awakes at the Weasleys house where they shortly depart for the 422nd Quidditch World Cup.
+        After the match, the camp is attacked by Death Eaters.</string>
+
+    <string name="hp_five">It follows Harry Potter struggles through his fifth year at Hogwarts School of Witchcraft
+        and Wizardry, including the surreptitious return of the antagonist Lord Voldemort,
+        O.W.L. exams, and an obstructive Ministry of Magic.</string>
+    <string name="hp_six">In this book, Harry Potter learns a lot about Lord Voldemort past,
+        and Harry Potter prepares for the final battle against his nemesis with the help of Headmaster Dumbledore.
+        But in that time, Voldemort returns to power, and makes a plan to destroy Harry.</string>
+    <string name="hp_seven">The Deathly Hallows is about Harry Potter and his friends finding ways to destroy Voldemort.
+        They learn that even good contains a bit of evil, and vise versa.
+        Even though the trio faces many difficulties, they persevere.</string>
+    <string name="hp_eigth">“Harry Potter and the Cursed Child” is about the journey Albus takes while growing up,
+        and the roles he and his best friend, Scorpius (Draco Malfoy son),
+        play when dark forces, perhaps in league with Voldemort,
+        once again threaten the fate of the planet</string>
+    <string name="book">The Shiva Purana is one of eighteen major texts of the Purana genre of Sanskrit texts in Hinduism,
+        and part of the Shaivism literature corpus.It primarily revolves around the Hindu god Shiva and goddess Parvati,
+        but references and reveres all gods.</string>
+    <string name="book_one">Seven Secrets of Shiva is a concise book
+        about Lord Shiva and the stories and metaphors related to him.
+        It also contains tales related to his family,
+        i.e., Goddess Shakti, Lord Ganesha, and Kartikeya.
+        Seven Secrets of Shiva by Devdutt Pattanaik.
+        The language of the book is easy to read.</string>
+
+    <string name="book_two">Death; An Inside Story is a book that explores the topic of death and the afterlife uniquely.
+        The book is written in a style that encourages you to entertain the possibility of an existential reality
+        beyond the limited realm of logic and intellect.
+        It encourages you to explore it with an open mind and not decide between true and false
+        when it comes to something that is not in our experience.
+
+        The book elaborates on practical preparations one can make for one’s death,
+        how best we can assist someone who is dying,
+        and how we can continue to support their journey even after they have passed away. </string>
+
+    <string name="book_third">Inner Engineering is your personalized tool for joy and wellbeing.
+        As Sadhguru explains in the introduction, “My aim in this book is to help make joy your constant companion.
+        To make that happen, this book offers you not a sermon, but a science; not a teaching,
+        but a technology; not a precept, but a path. It is now time to start exploring that science,
+        working the technology, walking the path.”</string>
+
+    <string name="book_four">J.K. Rowling’s five-film Fantastic Beasts adventure series
+        continues with the original screenplay for Fantastic Beasts: The Crimes of Grindelwald
+       At the end of Fantastic Beasts and Where to Find Them,
+        the powerful Dark wizard Gellert Grindelwald was captured in New York with the help of Newt Scamander.
+        But, making good on his threat, Grindelwald escapes custody and sets about gathering followers,
+        most unsuspecting of his true agenda: to raise pure-blood wizards up to rule over all non-magical beings.
+        In an effort to thwart Grindelwald’s plans, Albus Dumbledore enlists Newt, his former Hogwarts student,
+        who agrees to help once again, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested,
+        even among the truest friends and family, in an increasingly divided wizarding world.
+        This second original screenplay from J.K. Rowling, illustrated with stunning line art from MinaLima,
+        expands on earlier events that helped shape the wizarding world, with some surprising nods to the Harry Potter
+        stories that will delight fans of both the books and films.</string>
+    <string name="book_five">Fantastic Beasts and Where to Find Them (often referred to as simply Fantastic Beasts)
+        is a 2001 guide book written by British author J. K. Rowling
+        (under the pen name of the fictitious author Newt Scamander)
+        about the magical creatures in the Harry Potter universe.</string>
+
+</resources>
