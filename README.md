@@ -1,5 +1,6 @@
-<span style="color: red"><h1 >OnlineShoppingApplication</h1></span>
+<h1 >OnlineShoppingApplication</h1>
 
+##
   In this Online Shopping Application,I have implemented registration and 
 Login features using SQLite database.
 
