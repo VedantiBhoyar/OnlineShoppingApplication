@@ -1,37 +1,25 @@
 <h1 >OnlineShoppingApplication</h1>
 
-  In this Online Shopping Application,I have implemented registration and 
-Login features using SQLite database.
+  This is an Online Shopping Application that includes registration and login features using an SQLite database.
 
 #
 
-  After Successful of Login when user enters in an application , The layout
-is sidebar navigation drawer. Header of side bar drawer display User name 
-and email which he/she entered during registration time. And Another Fields 
-are "Home", "Account Info" "Cart" & "Sign Out"
+Upon successful login, the application presents a sidebar navigation drawer layout. The header of the sidebar displays the user's name and email, which were entered during the registration process. The sidebar also contains the following fields: "Home," "Account Info," "Cart," and "Sign Out."
 
 #
 
-  Screen of Home Page will display list of the items for shopping. On Click of 
-red cart icon user will add that items in cart list. After once added in cart 
-it changes that icon to green colour instead of red and it will display text "already in cart".
+ The Home Page screen displays a list of items available for shopping. When the user clicks on the red cart icon, the item is added to their cart list. Once an item is added to the cart, the cart icon changes to green, and the text "already in cart" is displayed.
 
 #
 
-  From side bar drawer menu when user choose Account information then it will
-display one simple UI that Display User Full name, Email Address, Contact
-Number, Full Address of Delivery with State and pin code number.Here Name and
-Email are same which he/she entered during registration/login time but other fiels are static.
+ By selecting the "Account Info" option from the sidebar drawer menu, the user is shown a simple UI that displays their full name, email address, contact number, and complete delivery address including state and pin code. The name and email fields are the same as the ones entered during registration/login, while the other fields are static.
+#
+
+When the user chooses the "Cart" option from the sidebar, the application displays the items added to the cart. Clicking on the "Place Order" button triggers a simple toast message that says, "Your order has been successfully placed."
 
 #
 
-   When  user choose cart option from side bar, it will display items added in cart by
-user. On click of Place order simple Toast message that "Your order has successfully placed" 
-will display on the screen.
-
-#
-
-And on Sign Out Action the user will move to Login Page .
+Finally, selecting the "Sign Out" action takes the user back to the Login Page.
 
 #
 
